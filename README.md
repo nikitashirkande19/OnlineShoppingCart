@@ -37,31 +37,6 @@ Note: The payment page is created only for demo purpose and its not fully integr
 3. Database:
 - MySql
 
-### ================ Software And Tools Required ================
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE (Enterprise Edition) [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : MySQL Server [https://www.youtube.com/watch?v=Ydh5jYA6Frs]
-- : MySQL Workbench [https://www.youtube.com/watch?v=t79oCeTXHwg]
-
-
-
-### ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
-Step 1: Create a gmail account or login to existing account in any browser
-
-Step 2 : Go to [https://myaccount.google.com/security](https://myaccount.google.com/security) and check if 2 step verifications is enabled or not, enable it if not enabled
-
-Step 3: Go to [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) and enter password if asked
-
-Step 4: In Select an App Section: select Other (custom name) => enter "Ellison Electronics" => Generate
-
-Step 5: After that it will generate 16 digits app password which you need to copy and save for future configurations.
-
-Step 6: Done : Now continue to importing the project. [Don't share the above password generated to anyone]
-
-
 #### Some Screenshots for the project:
 - Home Page
 ![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/6161fb90-ac83-445d-9fb2-56681f6a52b4)
@@ -99,10 +74,5 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 
 
-#### "Suggestions and project improvement ideas are welcomed!"
-
-<bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Nikita Shirkande</b>
 
 
